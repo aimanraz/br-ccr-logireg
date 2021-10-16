@@ -8,7 +8,7 @@ Approximately 70% of data science problems involve classification and logistic r
 ## The Dataset
 Breast Cancer Wisconsin (Original) Data Set. This dataset obtained from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29). Preview of top rows of dataset.
 
-![]()
+![Top rows](https://github.com/aimanraz/br-ccr-logireg/blob/main/top_rows.JPG?raw=true)
 
 Attribute Information:
 
@@ -24,11 +24,11 @@ Attribute Information:
 * Mitoses: 1 - 10
 * Class: (2 for benign, 4 for malignant)
 
-![]()
+![Histogram](https://github.com/aimanraz/br-ccr-logireg/blob/main/histogram.JPG?raw=true)
 
 ## Machine Learnin Model Performance
 This shows that how well logistic regression able to make prediction for binary classification cases. The model evaluated using the k-fold cross validation. To start prediction, user have to input 9 attributes (excluding id number and true values). 
 
-![]()
+![Performance analysis](https://github.com/aimanraz/br-ccr-logireg/blob/main/performance.JPG?raw=true)
 
 let the data drive you...and beyond.
