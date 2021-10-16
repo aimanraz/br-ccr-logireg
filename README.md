@@ -1,4 +1,4 @@
-# Breast Cancer detection using Logistic Regression
+# Breast Cancer Detection using Logistic Regression
 Approximately 70% of data science problems involve classification and logistic regression is a common solution for binary problems. Logistic regression has many applications in data science, but in the world of healthcare, it can really drive life-changing action. This is one of the [SuperDataScience](https://www.superdatascience.com/) machine learning case study course. It shows how to detect breast cancer by applying a logistic regression model on a real-world dataset and predict whether a tumor is benign (not breast cancer) or malignant (breast cancer) based off its characteristics.
 
 ## Code and Resources Used 
